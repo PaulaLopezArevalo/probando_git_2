@@ -1,2 +1,4 @@
 texto='aaaaaaaaaaaaaa'
-print(a)
+print(texto)
+b=8
+c=3
