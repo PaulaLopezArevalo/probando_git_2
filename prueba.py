@@ -1,0 +1,2 @@
+texto='aaaaaaaaaaaaaa'
+print(a)
